@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "chamod",
+        "lastName": "madhuranga",
+        "email": "chamodmadhuranga7@gmail.com",
+        "phone": "0764967132",
+        "comments": "hi!",
+        "date": "2025-05-09 09:59:49"
+    },
+    {
+        "firstName": "dilruk",
+        "lastName": "madhuwantha",
+        "email": "dilruk@gmail.com",
+        "phone": "0768522323",
+        "comments": "hello",
+        "date": "2025-05-09 18:50:07"
+    },
+    {
+        "firstName": "kavindu",
+        "lastName": "dilsara",
+        "email": "kavi@gmail.com",
+        "phone": "0112123123",
+        "comments": "example",
+        "date": "2025-05-09 19:21:04"
+    }
+]
